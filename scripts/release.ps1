@@ -36,7 +36,7 @@ Write-Host "  语法自检通过：$($js.Count) 个文件"
 
 # 3) 打包
 Get-ChildItem ./*.tgz -EA SilentlyContinue | Remove-Item -Force
-npm pack
+npm pack --ignore-scripts   # dist 已预编译，跳过 prepare 钩子（避免 tsc 缺失报错）
 $tgz = Get-ChildItem ./*.tgz | Select-Object -First 1
 Write-Host "  打包完成：$($tgz.Name)  $($tgz.Length) B"
 
