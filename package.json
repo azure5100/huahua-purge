@@ -26,11 +26,12 @@
     "presets",
     "skills",
     "scripts",
+    "assets",
     "client.js",
     "cordis.patch.yml",
-    "screenshots.json",
     "README.md",
     "README.zh-CN.md",
+    "NOTICE.md",
     "LICENSE"
   ],
   "scripts": {
