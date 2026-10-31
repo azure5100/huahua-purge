@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="huahua-purge banner">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF5A4E"/><stop offset="20%" stop-color="#FF9A3C"/>
+      <stop offset="40%" stop-color="#FFD93D"/><stop offset="60%" stop-color="#3DDC84"/>
+      <stop offset="80%" stop-color="#35C4D9"/><stop offset="100%" stop-color="#A855F7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#0d0f14"/>
+  <rect y="286" width="1200" height="14" fill="url(#g)"/>
+  <text x="72" y="140" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="86" font-weight="800" fill="#e8ecf4">huahua-purge</text>
+  <text x="74" y="196" font-family="Inter,Segoe UI,Helvetica,Arial,sans-serif" font-size="28" fill="#8b93a7">DSH 宿主 · 破甲引擎 + 攻防演练台 · Jailbreak &amp; Red-Team Drill Bench</text>
+  <g transform="translate(1010 150)">
+    <path d="M0 0 C-24 -22 -22 -56 0 -78 C22 -56 24 -22 0 0 Z" fill="#FF5A4E"/>
+    <path d="M0 0 C-24 -22 -22 -56 0 -78 C22 -56 24 -22 0 0 Z" fill="#FF9A3C" transform="rotate(51.43)"/>
+    <path d="M0 0 C-24 -22 -22 -56 0 -78 C22 -56 24 -22 0 0 Z" fill="#FFD93D" transform="rotate(102.86)"/>
+    <path d="M0 0 C-24 -22 -22 -56 0 -78 C22 -56 24 -22 0 0 Z" fill="#3DDC84" transform="rotate(154.29)"/>
+    <path d="M0 0 C-24 -22 -22 -56 0 -78 C22 -56 24 -22 0 0 Z" fill="#35C4D9" transform="rotate(205.71)"/>
+    <path d="M0 0 C-24 -22 -22 -56 0 -78 C22 -56 24 -22 0 0 Z" fill="#4C7DFF" transform="rotate(257.14)"/>
+    <path d="M0 0 C-24 -22 -22 -56 0 -78 C22 -56 24 -22 0 0 Z" fill="#A855F7" transform="rotate(308.57)"/>
+    <circle r="18" fill="#0d0f14" stroke="#e8ecf4" stroke-width="1.4"/>
+    <circle r="6" fill="#e8ecf4"/>
+  </g>
+</svg>

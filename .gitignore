@@ -1,0 +1,9 @@
+node_modules/
+*.bak
+*.bak-*
+*.log
+screenshots.json
+.DS_Store
+Thumbs.db
+*.tgz
+*.zip
